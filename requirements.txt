@@ -1,0 +1,6 @@
+python-telegram-bot==21.8  # Updated version
+supabase==2.15.0
+requests==2.31.0
+python-dotenv==1.0.0
+word2number==1.1
+python-telegram-bot[job-queue]
